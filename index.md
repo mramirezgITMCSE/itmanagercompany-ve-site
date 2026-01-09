@@ -1,10 +1,10 @@
 ---
 layout: default
-title: IT Manager Company
+title: IT MANAGER COMPANY
 ---
 
-# IT Manager Company
-Consultoría y servicios de TI enfocados en negocio.
+# IT MANAGER COMPANY
+Diseño, Planificación, Implementación y Mantenimiento de Soluciones de TI.
 
 - Correo: **marco@itmanagercompany.com.ve**
 - País: **Venezuela (remoto)**
