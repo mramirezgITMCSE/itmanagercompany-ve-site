@@ -1,0 +1,7 @@
+---
+---
+
+/* Overrides mínimos para acentos y tipografía */
+:root { --accent-color: #00ff66; } /* verde estilo hacker */
+h1, h2, h3 { letter-spacing: 0.5px; }
+body { font-feature-settings: "liga" 1; }
